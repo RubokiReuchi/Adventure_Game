@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977851135e888334e92f9b1e48feccf0, type: 3}
+  m_Name: IronSword
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 024bf6dd03104014099c0dc4497d8af5, type: 2}
+  itemName: Iron Sword
+  itemDescription: Sword made of Iron, usefull to break things.
+  noItemSprite: {fileID: -242385254492651864, guid: 9d79951b12d5f664ba5b47b688ab71bd, type: 3}
+  itemSprite: {fileID: 8033092973025764044, guid: ae22737ffaafd7e46913777eb9711f45, type: 3}
+  usable: 0
+  unique: 1
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  itemObtained: {fileID: 11400000, guid: 5e908f3b01d948a438d39faa91215b01, type: 2}
+  currentUses: {fileID: 0}

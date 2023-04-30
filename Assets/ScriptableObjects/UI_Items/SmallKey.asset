@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977851135e888334e92f9b1e48feccf0, type: 3}
+  m_Name: SmallKey
+  m_EditorClassIdentifier: 
+  itemName: Small Key
+  itemDescription: A small key, you can use it to open a blocked door
+  noItemSprite: {fileID: 1227295521047739943, guid: bf3f235041bfb4b49a7f090df334ce54, type: 3}
+  itemSprite: {fileID: -7573354855677281409, guid: ae22737ffaafd7e46913777eb9711f45, type: 3}
+  usable: 0
+  unique: 0
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  itemObtained: {fileID: 11400000, guid: e739356381f52ed439aba77d8cfa191c, type: 2}
+  currentUses: {fileID: 11400000, guid: fbd90707c4ffce14c8d298719184e5fb, type: 2}

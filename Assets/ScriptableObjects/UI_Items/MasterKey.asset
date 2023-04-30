@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977851135e888334e92f9b1e48feccf0, type: 3}
+  m_Name: MasterKey
+  m_EditorClassIdentifier: 
+  itemName: Master Key
+  itemDescription: Master Key, use it to challenge the dungeon boss.
+  noItemSprite: {fileID: -1453968619670477071, guid: 9d79951b12d5f664ba5b47b688ab71bd, type: 3}
+  itemSprite: {fileID: 1801263428120863714, guid: ae22737ffaafd7e46913777eb9711f45, type: 3}
+  usable: 0
+  unique: 0
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  itemObtained: {fileID: 11400000, guid: f56b4dbab54e91047a1d3367276667a8, type: 2}
+  currentUses: {fileID: 11400000, guid: b48408b63d5955b4fb51fbe2d79feda9, type: 2}

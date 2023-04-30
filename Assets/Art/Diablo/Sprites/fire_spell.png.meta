@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 0b26bf8da0f14734d84756b00f08bb0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5095321987936551973
+    second: fire_spell_0
+  - first:
+      213: 1350446907926373405
+    second: fire_spell_1
+  - first:
+      213: 5687110130588231337
+    second: fire_spell_2
+  - first:
+      213: -8480706263214193368
+    second: fire_spell_3
+  - first:
+      213: 1322913668419151520
+    second: fire_spell_4
+  - first:
+      213: 3409407787434575670
+    second: fire_spell_5
+  - first:
+      213: -6995603912805917922
+    second: fire_spell_6
+  - first:
+      213: -1342555230332357665
+    second: fire_spell_7
+  - first:
+      213: -2325154879799151700
+    second: fire_spell_8
+  - first:
+      213: 8573430192729580779
+    second: fire_spell_9
+  - first:
+      213: 617678194713907362
+    second: fire_spell_10
+  - first:
+      213: 1161387701812235117
+    second: fire_spell_11
+  - first:
+      213: -8891508068585410100
+    second: fire_spell_12
+  - first:
+      213: -2374098444984536843
+    second: fire_spell_13
+  - first:
+      213: 4131586754834118908
+    second: fire_spell_14
+  - first:
+      213: 2612051710300603842
+    second: fire_spell_15
+  - first:
+      213: 8841987730100057558
+    second: fire_spell_16
+  - first:
+      213: -1718300881331245462
+    second: fire_spell_17
+  - first:
+      213: 5802031982406710552
+    second: fire_spell_18
+  - first:
+      213: 4353822371178774000
+    second: fire_spell_19
+  - first:
+      213: 1907485371982305736
+    second: fire_spell_20
+  - first:
+      213: -789325204089564333
+    second: fire_spell_21
+  - first:
+      213: -8801380936171275200
+    second: fire_spell_22
+  - first:
+      213: -8597886952651227333
+    second: fire_spell_23
+  - first:
+      213: 80540431301396464
+    second: fire_spell_24
+  - first:
+      213: -3231249778036553068
+    second: fire_spell_25
+  - first:
+      213: 2634785223501562916
+    second: fire_spell_26
+  - first:
+      213: -8431451734686610522
+    second: fire_spell_27
+  - first:
+      213: -2900930513138108808
+    second: fire_spell_28
+  - first:
+      213: 1634217735410287739
+    second: fire_spell_29
+  - first:
+      213: -170194694121319008
+    second: fire_spell_30
+  - first:
+      213: -3850254159024293287
+    second: fire_spell_31
+  - first:
+      213: -2456179483724996713
+    second: fire_spell_32
+  - first:
+      213: 3413796380033757205
+    second: fire_spell_33
+  - first:
+      213: -6852389753415267456
+    second: fire_spell_34
+  - first:
+      213: 6023644733423068986
+    second: fire_spell_35
+  - first:
+      213: -4087727546919321788
+    second: fire_spell_36
+  - first:
+      213: 2719412696564389150
+    second: fire_spell_37
+  - first:
+      213: 1839560114490920783
+    second: fire_spell_38
+  - first:
+      213: -6323076675100507134
+    second: fire_spell_39
+  - first:
+      213: -6798260869118023753
+    second: fire_spell_40
+  - first:
+      213: -3311661744654061596
+    second: fire_spell_41
+  - first:
+      213: 3532688294266209868
+    second: fire_spell_42
+  - first:
+      213: -4355286281276960527
+    second: fire_spell_43
+  - first:
+      213: 5038816146153451980
+    second: fire_spell_44
+  - first:
+      213: 1805968908632631807
+    second: fire_spell_45
+  - first:
+      213: -8423018487523099092
+    second: fire_spell_46
+  - first:
+      213: 385688727220572891
+    second: fire_spell_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_spell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbfdcce5a7c949b0800000000000000
+      internalID: -5095321987936551973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e9face40cdb210800000000000000
+      internalID: 1350446907926373405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ac3c388cacee40800000000000000
+      internalID: 5687110130588231337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82500b8169a7e4a80800000000000000
+      internalID: -8480706263214193368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6e1aae8feeb5210800000000000000
+      internalID: 1322913668419151520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6370d70a156a05f20800000000000000
+      internalID: 3409407787434575670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bdedb3e4f9aee90800000000000000
+      internalID: -6995603912805917922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd372b491294e5de0800000000000000
+      internalID: -1342555230332357665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca33ecdb4f36bbfd0800000000000000
+      internalID: -2325154879799151700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be461481651faf670800000000000000
+      internalID: 8573430192729580779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05d65ab0f629800800000000000000
+      internalID: 617678194713907362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_spell_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b860526f31e1010800000000000000
+      internalID: 1161387701812235117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc39bdf077fe98743bfa29ae441cbf69, type: 3}
+  m_Name: HighCost
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 5845312902102346107, guid: abd9b72dced1b4f40a3e5bd3f215c298, type: 3}
+    lootChange: 20
+  - thisLoot: {fileID: 1271997239743036820, guid: 4e52fd31a6b295143b19de1a456afc35, type: 3}
+    lootChange: 20
+  - thisLoot: {fileID: 413913059106446342, guid: cbe293abd65629a4e89d0e6ab4e09409, type: 3}
+    lootChange: 55
+  - thisLoot: {fileID: 6945200940189941975, guid: b7844696e9abed34283a3f7d00e11c16, type: 3}
+    lootChange: 5
